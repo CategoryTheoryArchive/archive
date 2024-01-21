@@ -23,7 +23,11 @@
     ],
     "schools": [
         {
-            "id": "fu.h",
+            "id": "u.cambridge",
+            "name": "University of Cambridge"
+        },
+        {
+            "id": "fu.hagen",
             "name": "FernUniversität in Hagen"
         },
         {
@@ -51,6 +55,10 @@
         {
             "id": "r.betti",
             "name": "Renato Betti"
+        },
+        {
+            "id": "s.m.carmody",
+            "name": "Sean Michael Carmody"
         },
         {
             "id": "r.c.davis.jr",
@@ -148,7 +156,7 @@
             "title": "Eilenberg-Moore algebras revisited",
             "authors": ["d.pumplün"],
             "date": "1988",
-            "institution": "fu.h",
+            "institution": "fu.hagen",
             "pages": [97, 143]
         },
         {
@@ -174,6 +182,13 @@
             "date": "1992",
             "journal": "s.r.c.m.d.s.ii",
             "pages": [339, 352]
+        },
+        {
+            "id": "1995_carmody_cobordism-categories",
+            "title": "Cobordism categories",
+            "authors": ["s.m.carmody"],
+            "date": "1995",
+            "school": "u.cambridge"
         },
         {
             "id": "2000_betti_categorical-frobenius",

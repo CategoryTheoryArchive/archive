@@ -18,4 +18,5 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1989 | Coherence for bicategories with finite bilimits | John Power | [1989_power_coherence-bicategories.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1989_power_coherence-bicategories.pdf) |
 | 1990 | An elementary characterization of presheaves categories | Renato Betti | [1990_betti_elementary-characterization.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1990_betti_elementary-characterization.pdf) |
 | 1992 | On internal topologies and the inverse image | Renato Betti | [1992_betti_internal-topologies.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1992_betti_internal-topologies.pdf) |
+| 1995 | Cobordism categories | Sean Michael Carmody | [1995_carmody_cobordism-categories.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1995_carmody_cobordism-categories.pdf) |
 | 2000 | On categorical Frobenius reciprocity | Renato Betti | [2000_betti_categorical-frobenius.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/2000_betti_categorical-frobenius.pdf) |
