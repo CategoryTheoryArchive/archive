@@ -15,6 +15,7 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1972 | Les triples | Jean Bénabou | [1972_bénabou_triples.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1972_bénabou_triples.pdf) |
 | 1973 | Les distributeurs | Jean Bénabou | [1973_bénabou_distributeurs.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_distributeurs.pdf) |
 | 1973 | Problemes dans les topos | Jean Bénabou | [1973_bénabou_problemes_topos.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_problemes_topos.pdf) |
+| 1975 | Symmetric closed categories | W. J. de Schipper | [1975_schnipper_symmetric-closed.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_schnipper_symmetric-closed.pdf) |
 | 1976 | Variétés d'une catégorie | Yves Diers | [1976_diers_variétés-catégorie.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1976_diers_variétés-catégorie.pdf) |
 | 1977 | Catégories localisables | Yves Diers | [1977_diers_catégories-localisables.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1977_diers_catégories-localisables.pdf) |
 | 1984 | Generalising the structure-semantics adjunction: Operational categories | Barry Jay | [1984_jay_generalising-structure-semantics.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1984_jay_generalising-structure-semantics.pdf) |

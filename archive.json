@@ -13,6 +13,10 @@
             "name": "Contemporary Mathematics"
         },
         {
+            "id": "m.c.t",
+            "name": "Mathematical Centre Tracts"
+        },
+        {
             "id": "n.a.m.s",
             "name": "Notices of the American Mathematical Society"
         },
@@ -109,6 +113,10 @@
             "name": "Dieter Pumplün"
         },
         {
+            "id": "w.j.de.schipper",
+            "name": "W. J. de Schipper"
+        },
+        {
             "id": "h.e.wolff",
             "name": "Harvey Wolff"
         }
@@ -182,6 +190,13 @@
             "authors": ["j.bénabou"],
             "date": "1973-03",
             "institution": "uclouvain"
+        },
+        {
+            "id": "1975_schnipper_symmetric-closed",
+            "title": "Symmetric closed categories",
+            "authors": ["w.j.de.schipper"],
+            "date": "1975",
+            "journal": "m.c.t"
         },
         {
             "id": "1976_diers_variétés-catégorie",
