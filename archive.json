@@ -1,5 +1,66 @@
 {
-    "journals": [],
-    "authors": [],
-    "resources": []
+    "journals": [
+        {
+            "id": "b.u.m.i.",
+            "name": "Bollettino dell'Unione Matematica Italiana"
+        },
+        {
+            "id": "s.r.c.m.d.s.ii",
+            "name": "Supplemento ai Rendiconti del Circolo Matematico di Palermo Serie II"
+        }
+    ],
+    "authors": [
+        {
+            "id": "j.m.beck",
+            "name": "Jon Beck"
+        },
+        {
+            "id": "r.betti",
+            "name": "Renato Betti"
+        },
+        {
+            "id": "a.j.power",
+            "name": "John Power"
+        }
+    ],
+    "resources": [
+        {
+            "id": "1968_beck_",
+            "title": "",
+            "authors": ["j.m.beck"],
+            "date": "1968-06~"
+        },
+        {
+            "id": "1988_betti--power_local-adjointness",
+            "title": "On Local Adjointness of Distributive Bicategories",
+            "authors": ["r.betti", "a.j.power"],
+            "date": "1988",
+            "journal": "b.u.m.i.",
+            "pages": [931, 947]
+        },
+        {
+            "id": "1990_betti_elementary-characterization",
+            "title": "An elementary characterization of presheaves categories",
+            "authors": ["r.betti"],
+            "date": "1990",
+            "journal": "s.r.c.m.d.s.ii",
+            "pages": [257, 266]
+        },
+        {
+            "id": "1992_betti_internal-topologies",
+            "title": "On internal topologies and the inverse image",
+            "authors": ["r.betti"],
+            "date": "1992",
+            "journal": "s.r.c.m.d.s.ii",
+            "pages": [339, 352]
+        },
+        {
+            "id": "2000_betti_categorical-frobenius",
+            "title": "On categorical Frobenius reciprocity",
+            "authors": ["r.betti"],
+            "date": "2000",
+            "journal": "s.r.c.m.d.s.ii",
+            "pages": [51, 66]
+        }
+    ]
 }
