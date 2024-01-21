@@ -27,6 +27,10 @@
             "name": "University of Cambridge"
         },
         {
+            "id": "u.chicago",
+            "name": "The University of Chicago"
+        },
+        {
             "id": "fu.hagen",
             "name": "FernUniversität in Hagen"
         },
@@ -89,6 +93,10 @@
             "name": "Barry Jay"
         },
         {
+            "id": "a.kock",
+            "name": "Anders Kock"
+        },
+        {
             "id": "f.e.j.linton",
             "name": "Fred Linton"
         },
@@ -126,6 +134,13 @@
             "authors": ["r.c.davis.jr"],
             "date": "1967",
             "school": "tulane.u"
+        },
+        {
+            "id": "1967_kock_limit-monads",
+            "title": "Limit Monads in Categories",
+            "authors": ["a.kock"],
+            "date": "1967-08-01",
+            "school": "u.chicago"
         },
         {
             "id": "1968_beck_",

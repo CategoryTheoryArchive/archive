@@ -8,6 +8,7 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1960 | Functor theory | Peter Freyd | [1960_freyd_functor-theory.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1960_freyd_functor-theory.pdf) |
 | 1966 | Triples versus theories | Fred Linton | [1966_linton_triples-theories.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_linton_triples-theories.pdf) |
 | 1967 | Abstract universal algebra | Robert Clay Davis | [1967_davis_abstract-universal.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_davis_abstract-universal.pdf) |
+| 1967 | Limit Monads in Categories | Anders Kock | [1967_kock_limit-monads.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_kock_limit-monads.pdf) |
 | c. 1968 |  | Jon Beck | [1968_beck_.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1968_beck_.pdf) |
 | 1970 | V-localizations and V-triples | Harvey Wolff | [1970_wolff_v-localizations-v-triples.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1970_wolff_v-localizations-v-triples.pdf) |
 | 1972 | Les triples | Jean Bénabou | [1972_bénabou_triples.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1972_bénabou_triples.pdf) |
