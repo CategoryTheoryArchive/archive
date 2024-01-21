@@ -21,6 +21,10 @@ if data is not None:
     for journal in journals:
         insert_id(journal["id"], journal)
 
+    schools = data["schools"]
+    for school in schools:
+        insert_id(school["id"], school)
+
     authors = data["authors"]
     for author in authors:
         insert_id(author["id"], author)
@@ -61,6 +65,9 @@ if data is not None:
             if "journal" in resource:
                 kind = "article"
                 entry.append(["journal", ids[resource["journal"]]["name"]])
+            if "school" in resource:
+                kind = "phdthesis"
+                entry.append(["school", ids[resource["school"]]["name"]])
             if "pages" in resource:
                 pages = resource["pages"]
                 entry.append(["pages", str(pages[0]) + "--" + str(pages[1])])
