@@ -123,6 +123,10 @@
             "name": "Fred Linton"
         },
         {
+            "id": "c.v.meyer",
+            "name": "Carol Meyer"
+        },
+        {
             "id": "a.j.power",
             "name": "John Power"
         },
@@ -251,6 +255,13 @@
             "title": "Bialgebras in locally presentable categories",
             "authors": ["f.ulmer"],
             "date": "1977"
+        },
+        {
+            "id": "1983_meyer_completion-categories",
+            "title": "Completion of categories under certain limits",
+            "authors": ["c.v.meyer"],
+            "date": "1983-02",
+            "school": "mcgill.u"
         },
         {
             "id": "1984_jay_generalising-structure-semantics",
