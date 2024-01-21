@@ -1,4 +1,4 @@
-import json, shutil
+import json, shutil, unicodedata
 from pathlib import Path
 
 with open("archive.json") as file:
@@ -48,7 +48,7 @@ if data is not None:
             link = ""
             path = "resources/" + resource["id"] + ".pdf"
             if Path(path).is_file():
-                link = "https://github.com/CategoryTheoryArchive/archive/blob/main/" + path
+                link = "https://github.com/CategoryTheoryArchive/archive/blob/main/" + unicodedata.normalize("NFC", path)
             out.write("| " + ("c. " if circa else "") + year + " | " + resource.get("title", "") + " | " + authors + " | " + "[" + resource["id"] + ".pdf](" + link + ") |")
             out.write("\n")
 
