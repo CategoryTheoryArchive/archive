@@ -19,13 +19,13 @@
         {
             "id": "s.r.c.m.d.s.ii",
             "name": "Supplemento ai Rendiconti del Circolo Matematico di Palermo Serie II"
-        },
-        {
-            "id": "s.f.m.f.h",
-            "name": "Seminarberichte aus dem Fachbereich Mathematik der FernUniversität in Hagen"
         }
     ],
     "schools": [
+        {
+            "id": "fu.h",
+            "name": "FernUniversität in Hagen"
+        },
         {
             "id": "u.illinois-urbana-champaign",
             "name": "University of Illinois Urbana-Champaign"
@@ -103,7 +103,7 @@
             "title": "Eilenberg-Moore algebras revisited",
             "authors": ["d.pumplün"],
             "date": "1988",
-            "journal": "s.f.m.f.h",
+            "institution": "fu.h",
             "pages": [97, 143]
         },
         {

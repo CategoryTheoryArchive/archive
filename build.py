@@ -68,6 +68,9 @@ if data is not None:
             if "school" in resource:
                 kind = "phdthesis"
                 entry.append(["school", ids[resource["school"]]["name"]])
+            if "institution" in resource:
+                kind = "techreport"
+                entry.append(["institution", ids[resource["institution"]]["name"]])
             if "pages" in resource:
                 pages = resource["pages"]
                 entry.append(["pages", str(pages[0]) + "--" + str(pages[1])])
