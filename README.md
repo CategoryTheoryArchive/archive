@@ -14,6 +14,7 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1973 | Les distributeurs | Jean Bénabou | [1973_bénabou_distributeurs.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_distributeurs.pdf) |
 | 1973 | Problemes dans les topos | Jean Bénabou | [1973_bénabou_problemes_topos.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_problemes_topos.pdf) |
 | 1976 | Variétés d'une catégorie | Yves Diers | [1976_diers_variétés-catégorie.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1976_diers_variétés-catégorie.pdf) |
+| 1977 | Catégories localisables | Yves Diers | [1977_diers_catégories-localisables.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1977_diers_catégories-localisables.pdf) |
 | 1984 | Generalising the structure-semantics adjunction: Operational categories | Barry Jay | [1984_jay_generalising-structure-semantics.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1984_jay_generalising-structure-semantics.pdf) |
 | 1988 | On Local Adjointness of Distributive Bicategories | Renato Betti, John Power | [1988_betti--power_local-adjointness.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1988_betti--power_local-adjointness.pdf) |
 | 1988 | Eilenberg-Moore algebras revisited | Dieter Pumplün | [1988_pümplun_eilenberg-moore.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1988_pümplun_eilenberg-moore.pdf) |

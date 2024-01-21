@@ -39,6 +39,10 @@
             "name": "McGill University"
         },
         {
+            "id": "paris.vi",
+            "name": "Pierre and Marie Curie University"
+        },
+        {
             "id": "princeton.u",
             "name": "Princeton University"
         },
@@ -165,6 +169,13 @@
             "date": "1976",
             "journal": "a.s.s.b",
             "pages": [159, 172]
+        },
+        {
+            "id": "1977_diers_catégories-localisables",
+            "title": "Catégories localisables",
+            "authors": ["y.diers"],
+            "date": "1977",
+            "school": "paris.vi"
         },
         {
             "id": "1984_jay_generalising-structure-semantics",
