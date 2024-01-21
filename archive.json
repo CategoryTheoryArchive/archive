@@ -139,6 +139,10 @@
             "name": "W. J. de Schipper"
         },
         {
+            "id": "f.ulmer",
+            "name": "Friedrich Ulmer"
+        },
+        {
             "id": "h.e.wolff",
             "name": "Harvey Wolff"
         }
@@ -241,6 +245,12 @@
             "authors": ["y.diers"],
             "date": "1977",
             "school": "paris.vi"
+        },
+        {
+            "id": "1977_ulmer_bialgebras-locally",
+            "title": "Bialgebras in locally presentable categories",
+            "authors": ["f.ulmer"],
+            "date": "1977"
         },
         {
             "id": "1984_jay_generalising-structure-semantics",
