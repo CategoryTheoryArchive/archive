@@ -45,11 +45,11 @@ if data is not None:
             circa = date[-1] == "~"
             year = date.rstrip("~").split("-")[0]
             authors = ", ".join(map(lambda author : ids[author]["name"], resource["authors"]))
-            link = ""
+            link = None
             path = "resources/" + resource["id"] + ".pdf"
             if Path(path).is_file():
                 link = "https://github.com/CategoryTheoryArchive/archive/blob/main/" + unicodedata.normalize("NFC", path)
-            out.write("| " + ("c. " if circa else "") + year + " | " + resource.get("title", "") + " | " + authors + " | " + "[" + resource["id"] + ".pdf](" + link + ") |")
+            out.write("| " + ("c. " if circa else "") + year + " | " + resource.get("title", "") + " | " + authors + " | " + ("[" + resource["id"] + ".pdf](" + link + ")" if link is not None else "*Missing*") + " |")
             out.write("\n")
 
     # Generate a .bib file.
