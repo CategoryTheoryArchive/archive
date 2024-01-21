@@ -1,12 +1,28 @@
 {
     "journals": [
         {
+            "id": "a.s.s.b",
+            "name": "Annales de la Société Scientifique de Bruxelles"
+        },
+        {
             "id": "b.u.m.i.",
             "name": "Bollettino dell'Unione Matematica Italiana"
         },
         {
+            "id": "c.m",
+            "name": "Contemporary Mathematics"
+        },
+        {
+            "id": "n.a.m.s",
+            "name": "Notices of the American Mathematical Society"
+        },
+        {
             "id": "s.r.c.m.d.s.ii",
             "name": "Supplemento ai Rendiconti del Circolo Matematico di Palermo Serie II"
+        },
+        {
+            "id": "s.f.m.f.h",
+            "name": "Seminarberichte aus dem Fachbereich Mathematik der FernUniversität in Hagen"
         }
     ],
     "authors": [
@@ -19,16 +35,43 @@
             "name": "Renato Betti"
         },
         {
+            "id": "y.diers",
+            "name": "Yves Diers"
+        },
+        {
+            "id": "f.e.j.linton",
+            "name": "Fred Linton"
+        },
+        {
             "id": "a.j.power",
             "name": "John Power"
+        },
+        {
+            "id": "d.pumplün",
+            "name": "Dieter Pumplün"
         }
     ],
     "resources": [
+        {
+            "id": "1966_linton_triples-theories",
+            "title": "Triples versus theories",
+            "authors": ["f.e.j.linton"],
+            "journal": "n.a.m.s",
+            "date": "1966-02-26"
+        },
         {
             "id": "1968_beck_",
             "title": "",
             "authors": ["j.m.beck"],
             "date": "1968-06~"
+        },
+        {
+            "id": "1976_diers_variétés-catégorie",
+            "title": "Variétés d'une catégorie",
+            "authors": ["y.diers"],
+            "date": "1976",
+            "journal": "a.s.s.b",
+            "pages": [159, 172]
         },
         {
             "id": "1988_betti--power_local-adjointness",
@@ -37,6 +80,22 @@
             "date": "1988",
             "journal": "b.u.m.i.",
             "pages": [931, 947]
+        },
+        {
+            "id": "1988_pümplun_eilenberg-moore",
+            "title": "Eilenberg-Moore algebras revisited",
+            "authors": ["d.pumplün"],
+            "date": "1988",
+            "journal": "s.f.m.f.h",
+            "pages": [97, 143]
+        },
+        {
+            "id": "1989_power_coherence-bicategories",
+            "title": "Coherence for bicategories with finite bilimits",
+            "authors": ["a.j.power"],
+            "date": "1989",
+            "journal": "c.m",
+            "pages": [341, 347]
         },
         {
             "id": "1990_betti_elementary-characterization",
