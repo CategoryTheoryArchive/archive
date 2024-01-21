@@ -35,6 +35,10 @@
             "name": "University of Illinois Urbana-Champaign"
         },
         {
+            "id": "princeton.u",
+            "name": "Princeton University"
+        },
+        {
             "id": "tulane.u",
             "name": "Tulane University"
         },
@@ -69,6 +73,10 @@
             "name": "Yves Diers"
         },
         {
+            "id": "p.j.freyd",
+            "name": "Peter Freyd"
+        },
+        {
             "id": "f.e.j.linton",
             "name": "Fred Linton"
         },
@@ -86,6 +94,13 @@
         }
     ],
     "resources": [
+        {
+            "id": "1960_freyd_functor-theory",
+            "title": "Functor theory",
+            "authors": ["p.j.freyd"],
+            "date": "1960",
+            "school": "princeton.u"
+        },
         {
             "id": "1966_linton_triples-theories",
             "title": "Triples versus theories",
