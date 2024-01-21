@@ -122,6 +122,12 @@
             "school": "princeton.u"
         },
         {
+            "id": "1966_kock_continuous-yoneda",
+            "title": "Continuous Yoneda Representation of a small category",
+            "authors": ["a.kock"],
+            "date": "1966-10"
+        },
+        {
             "id": "1966_linton_triples-theories",
             "title": "Triples versus theories",
             "authors": ["f.e.j.linton"],
