@@ -25,6 +25,12 @@
             "name": "Supplemento ai Rendiconti del Circolo Matematico di Palermo Serie II"
         }
     ],
+    "venues": [
+        {
+            "id": "cat.top.rels",
+            "name": "Categorical topology and its relation to analysis, algebra and combinatorics"
+        }
+    ],
     "schools": [
         {
             "id": "u.cambridge",
@@ -65,6 +71,10 @@
     ],
     "authors": [
         {
+            "id": "j.adámek",
+            "name": "Jiří Adámek"
+        },
+        {
             "id": "j.m.beck",
             "name": "Jon Beck"
         },
@@ -97,6 +107,10 @@
             "name": "Peter Freyd"
         },
         {
+            "id": "h.herrlich",
+            "name": "Horst Herrlich"
+        },
+        {
             "id": "c.b.jay",
             "name": "Barry Jay"
         },
@@ -115,6 +129,10 @@
         {
             "id": "d.pumplün",
             "name": "Dieter Pumplün"
+        },
+        {
+            "id": "j.reiterman",
+            "name": "Jan Reiterman"
         },
         {
             "id": "w.j.de.schipper",
@@ -230,6 +248,14 @@
             "authors": ["c.b.jay"],
             "date": "1984",
             "school": "mcgill.u"
+        },
+        {
+            "id": "1988_adámek--herrlich--reiterman_cocompleteness-almost",
+            "title": "Cocompleteness almost implies completeness",
+            "authors": ["j.adámek", "h.herrlich", "j.reiterman"],
+            "date": "1988",
+            "venue": "cat.top.rels",
+            "pages": [246, 256]
         },
         {
             "id": "1988_betti--power_local-adjointness",
