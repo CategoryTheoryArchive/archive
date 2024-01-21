@@ -8,6 +8,9 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1966 | Triples versus theories | Fred Linton | [1966_linton_triples-theories.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_linton_triples-theories.pdf) |
 | c. 1968 |  | Jon Beck | [1968_beck_.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1968_beck_.pdf) |
 | 1970 | V-localizations and V-triples | Harvey Wolff | [1970_wolff_v-localizations-v-triples.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1970_wolff_v-localizations-v-triples.pdf) |
+| 1972 | Les triples | Jean Bénabou | [1972_bénabou_triples.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1972_bénabou_triples.pdf) |
+| 1973 | Les distributeurs | Jean Bénabou | [1973_bénabou_distributeurs.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_distributeurs.pdf) |
+| 1973 | Problemes dans les topos | Jean Bénabou | [1973_bénabou_problemes_topos.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_problemes_topos.pdf) |
 | 1976 | Variétés d'une catégorie | Yves Diers | [1976_diers_variétés-catégorie.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1976_diers_variétés-catégorie.pdf) |
 | 1988 | On Local Adjointness of Distributive Bicategories | Renato Betti, John Power | [1988_betti--power_local-adjointness.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1988_betti--power_local-adjointness.pdf) |
 | 1988 | Eilenberg-Moore algebras revisited | Dieter Pumplün | [1988_pümplun_eilenberg-moore.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1988_pümplun_eilenberg-moore.pdf) |

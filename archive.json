@@ -29,12 +29,20 @@
         {
             "id": "u.illinois-urbana-champaign",
             "name": "University of Illinois Urbana-Champaign"
+        },
+        {
+            "id": "uclouvain",
+            "name": "Université catholique de Louvain"
         }
     ],
     "authors": [
         {
             "id": "j.m.beck",
             "name": "Jon Beck"
+        },
+        {
+            "id": "j.bénabou",
+            "name": "Jean Bénabou"
         },
         {
             "id": "r.betti",
@@ -70,6 +78,13 @@
             "date": "1966-02-26"
         },
         {
+            "id": "1967_davis_abstract-universal",
+            "title": "Abstract universal algebra",
+            "authors": ["r.c.davis.jr"],
+            "date": "1967",
+            "school": "tulane.u"
+        },
+        {
             "id": "1968_beck_",
             "title": "",
             "authors": ["j.m.beck"],
@@ -81,6 +96,28 @@
             "authors": ["h.e.wolff"],
             "date": "1970",
             "school": "u.illinois-urbana-champaign"
+        },
+        {
+            "id": "1972_bénabou_triples",
+            "title": "Les triples",
+            "authors": ["j.bénabou"],
+            "date": "1972-07",
+            "type": "report",
+            "institution": "uclouvain"
+        },
+        {
+            "id": "1973_bénabou_distributeurs",
+            "title": "Les distributeurs",
+            "authors": ["j.bénabou"],
+            "date": "1973-01",
+            "institution": "uclouvain"
+        },
+        {
+            "id": "1973_bénabou_problemes_topos",
+            "title": "Problemes dans les topos",
+            "authors": ["j.bénabou"],
+            "date": "1973-03",
+            "institution": "uclouvain"
         },
         {
             "id": "1976_diers_variétés-catégorie",
