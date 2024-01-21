@@ -17,21 +17,11 @@ if data is not None:
             return
         ids[id] = value
 
-    journals = data["journals"]
-    for journal in journals:
-        insert_id(journal["id"], journal)
-
-    schools = data["schools"]
-    for school in schools:
-        insert_id(school["id"], school)
-
-    authors = data["authors"]
-    for author in authors:
-        insert_id(author["id"], author)
+    for items in data.values():
+        for item in items:
+            insert_id(item["id"], item)
 
     resources = data["resources"]
-    for resource in resources:
-        insert_id(resource["id"], resource)
     resources.sort(key = lambda resource: resource["date"])
 
     # Generate a table for the README.
@@ -71,6 +61,9 @@ if data is not None:
             if "institution" in resource:
                 kind = "techreport"
                 entry.append(["institution", ids[resource["institution"]]["name"]])
+            if "venue" in resource:
+                kind = "proceedings"
+                entry.append(["venue", ids[resource["venue"]]["name"]])
             if "pages" in resource:
                 pages = resource["pages"]
                 entry.append(["pages", str(pages[0]) + "--" + str(pages[1])])
