@@ -89,6 +89,10 @@
             "name": "Yves Diers"
         },
         {
+            "id": "t.f.fox",
+            "name": "Thomas Fox"
+        },
+        {
             "id": "p.j.freyd",
             "name": "Peter Freyd"
         },
@@ -205,6 +209,13 @@
             "date": "1976",
             "journal": "a.s.s.b",
             "pages": [159, 172]
+        },
+        {
+            "id": "1976_fox_universal-coalgebras",
+            "title": "Universal coalgebras",
+            "authors": ["t.f.fox"],
+            "date": "1976-03",
+            "school": "mcgill.u"
         },
         {
             "id": "1977_diers_catégories-localisables",
