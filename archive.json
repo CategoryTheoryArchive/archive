@@ -57,6 +57,10 @@
             "name": "Pierre and Marie Curie University"
         },
         {
+            "id": "paris.13",
+            "name": "Sorbonne Paris North University"
+        },
+        {
             "id": "princeton.u",
             "name": "Princeton University"
         },
@@ -89,6 +93,10 @@
         {
             "id": "s.m.carmody",
             "name": "Sean Michael Carmody"
+        },
+        {
+            "id": "j.celeyrette",
+            "name": "Jean Celeyrette"
         },
         {
             "id": "r.c.davis.jr",
@@ -222,6 +230,13 @@
             "institution": "uclouvain"
         },
         {
+            "id": "1975_celeyrette_catégories-internes",
+            "title": "Catégories internes et fibrations & Cohomologie de gel'fand-fuks",
+            "authors": ["j.celeyrette"],
+            "date": "1975-11",
+            "school": "paris.13"
+        },
+        {
             "id": "1975_schnipper_symmetric-closed",
             "title": "Symmetric closed categories",
             "authors": ["w.j.de.schipper"],
@@ -245,7 +260,7 @@
         },
         {
             "id": "1977_diers_catégories-localisables",
-            "title": "Catégories localisables",
+            "title": "Catégories localisables & Aspects geometriques de la propriete de Radon-Nikodym dans les espaces de Banach",
             "authors": ["y.diers"],
             "date": "1977",
             "school": "paris.vi"
