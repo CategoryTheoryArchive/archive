@@ -9,6 +9,7 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1966 | Triples versus theories | Fred Linton | [1966_linton_triples-theories.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_linton_triples-theories.pdf) |
 | 1966 | Continuous Yoneda Representation of a small category | Anders Kock | [1966_kock_continuous-yoneda.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_kock_continuous-yoneda.pdf) |
 | 1967 | Abstract universal algebra | Robert Clay Davis | [1967_davis_abstract-universal.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_davis_abstract-universal.pdf) |
+| 1967 | A triple miscellany: some aspects of the theory of algebras over a triple | Ernest Manes | [1967_manes_triple-miscellany.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_manes_triple-miscellany.pdf) |
 | 1967 | Limit Monads in Categories | Anders Kock | [1967_kock_limit-monads.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_kock_limit-monads.pdf) |
 | c. 1968 |  | Jon Beck | [1968_beck_.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1968_beck_.pdf) |
 | 1970 | V-localizations and V-triples | Harvey Wolff | [1970_wolff_v-localizations-v-triples.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1970_wolff_v-localizations-v-triples.pdf) |

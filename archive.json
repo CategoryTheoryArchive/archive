@@ -71,6 +71,10 @@
         {
             "id": "uclouvain",
             "name": "Université catholique de Louvain"
+        },
+        {
+            "id": "wesleyan.u",
+            "name": "Wesleyan University"
         }
     ],
     "authors": [
@@ -129,6 +133,10 @@
         {
             "id": "f.e.j.linton",
             "name": "Fred Linton"
+        },
+        {
+            "id": "e.g.manes",
+            "name": "Ernest Manes"
         },
         {
             "id": "c.v.meyer",
@@ -193,6 +201,13 @@
             "authors": ["a.kock"],
             "date": "1967-08-01",
             "school": "u.chicago"
+        },
+        {
+            "id": "1967_manes_triple-miscellany",
+            "title": "A triple miscellany: some aspects of the theory of algebras over a triple",
+            "authors": ["e.g.manes"],
+            "date": "1967",
+            "school": "wesleyan.u"
         },
         {
             "id": "1968_beck_",
