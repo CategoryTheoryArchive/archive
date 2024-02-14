@@ -338,6 +338,14 @@
             "pages": [159, 172]
         },
         {
+            "id": "1976_diers_type-densité",
+            "title": "Type de densite d'une sous-categorie pleine",
+            "authors": ["y.diers"],
+            "date": "1976",
+            "journal": "a.s.s.b",
+            "pages": [25, 47]
+        },
+        {
             "id": "1976_fox_universal-coalgebras",
             "title": "Universal coalgebras",
             "authors": ["t.f.fox"],
