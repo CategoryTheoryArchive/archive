@@ -135,6 +135,10 @@
             "name": "Peter Freyd"
         },
         {
+            "id": "m.galuzzi",
+            "name": "Massimo Galuzzi"
+        },
+        {
             "id": "h.herrlich",
             "name": "Horst Herrlich"
         },
@@ -313,6 +317,14 @@
             "title": "Relative functorial semantics, III. Triples vs. theories",
             "authors": ["f.e.j.linton"],
             "date": "1974"
+        },
+        {
+            "id": "1975_betti--galuzzi_categorie-normate",
+            "title": "Categorie normate",
+            "authors": ["r.betti", "m.galuzzi"],
+            "date": "1975",
+            "journal": "b.u.m.i.",
+            "page": [66, 75]
         },
         {
             "id": "1975_celeyrette_catégories-internes",

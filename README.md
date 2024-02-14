@@ -20,6 +20,7 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1973 | Les distributeurs | Jean Bénabou | [1973_bénabou_distributeurs.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_distributeurs.pdf) |
 | 1973 | Problemes dans les topos | Jean Bénabou | [1973_bénabou_problemes_topos.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_problemes_topos.pdf) |
 | 1974 | Relative functorial semantics, III. Triples vs. theories | Fred Linton | [1974_linton_relative-functorial.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1974_linton_relative-functorial.pdf) |
+| 1975 | Categorie normate | Renato Betti, Massimo Galuzzi | [1975_betti--galuzzi_categorie-normate.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_betti--galuzzi_categorie-normate.pdf) |
 | 1975 | Symmetric closed categories | W. J. de Schipper | [1975_schipper_symmetric-closed.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_schipper_symmetric-closed.pdf) |
 | 1975 | Algebraic theories | Gavin C. Wraith | [1975_wraith_algebraic-theories.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_wraith_algebraic-theories.pdf) |
 | 1975 | Catégories internes et fibrations & Cohomologie de gel'fand-fuks | Jean Celeyrette | [1975_celeyrette_catégories-internes.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_celeyrette_catégories-internes.pdf) |
