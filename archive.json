@@ -35,6 +35,10 @@
         {
             "id": "s.r.c.m.d.s.ii",
             "name": "Supplemento ai Rendiconti del Circolo Matematico di Palermo Serie II"
+        },
+        {
+            "id": "s.m",
+            "name": "Symposia Mathematica"
         }
     ],
     "venues": [
@@ -266,6 +270,14 @@
             "title": "",
             "authors": ["j.m.beck"],
             "date": "1968-06~"
+        },
+        {
+            "id": "1969_freyd_concreteness-certain",
+            "title": "On the concreteness of certain categories",
+            "authors": ["p.j.freyd"],
+            "date": "1969",
+            "journal": "s.m",
+            "pages": [431, 456]
         },
         {
             "id": "1969_servi_definizione-alternativa",
