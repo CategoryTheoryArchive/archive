@@ -151,12 +151,24 @@
             "name": "Dieter Pumplün"
         },
         {
+            "id": "c.reggiani",
+            "name": "Cristina Reggiani"
+        },
+        {
             "id": "j.reiterman",
             "name": "Jan Reiterman"
         },
         {
+            "id": "f.rossi",
+            "name": "Fabio Rossi"
+        },
+        {
             "id": "w.j.de.schipper",
             "name": "W. J. de Schipper"
+        },
+        {
+            "id": "m.servi",
+            "name": "Mario Servi"
         },
         {
             "id": "f.ulmer",
@@ -214,6 +226,14 @@
             "title": "",
             "authors": ["j.m.beck"],
             "date": "1968-06~"
+        },
+        {
+            "id": "1969_servi_definizione-alternativa",
+            "title": "Una definizione alternativa di ``funtori aggiunti''",
+            "authors": ["m.servi"],
+            "date": "1969",
+            "journal": "b.u.m.i.",
+            "pages": [510, 514]
         },
         {
             "id": "1970_wolff_v-localizations-v-triples",
@@ -295,11 +315,27 @@
             "date": "1977"
         },
         {
+            "id": "1981_rossi_quasi-fini",
+            "title": "Quasi-fini e lemma di Yoneda relativo nella teoria delle bicategorie relative",
+            "authors": ["f.rossi"],
+            "date": "1981",
+            "journal": "b.u.m.i.",
+            "pages": [315, 334]
+        },
+        {
             "id": "1983_meyer_completion-categories",
             "title": "Completion of categories under certain limits",
             "authors": ["c.v.meyer"],
             "date": "1983-02",
             "school": "mcgill.u"
+        },
+        {
+            "id": "1983_reggiani_condizione-caratteristica",
+            "title": "Una condizione caratteristica per l'esistenza di un biaggiunto destro",
+            "authors": ["c.reggiani"],
+            "date": "1983",
+            "journal": "b.u.m.i.",
+            "pages": [85, 90]
         },
         {
             "id": "1984_jay_generalising-structure-semantics",
