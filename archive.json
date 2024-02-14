@@ -61,6 +61,10 @@
             "name": "Pierre and Marie Curie University"
         },
         {
+            "id": "paris.7",
+            "name": "Université de Paris 7"
+        },
+        {
             "id": "paris.13",
             "name": "Sorbonne Paris North University"
         },
@@ -133,6 +137,10 @@
         {
             "id": "a.kock",
             "name": "Anders Kock"
+        },
+        {
+            "id": "y.lafont",
+            "name": "Yves Lafont"
         },
         {
             "id": "f.e.j.linton",
@@ -381,6 +389,13 @@
             "date": "1988",
             "journal": "b.u.m.i.",
             "pages": [931, 947]
+        },
+        {
+            "id": "1988_lafont_logiques-categories",
+            "title": "Logiques, categories & machines",
+            "authors": ["y.lafont"],
+            "date": "1988-01-11",
+            "school": "paris.7"
         },
         {
             "id": "1988_pümplun_eilenberg-moore",
