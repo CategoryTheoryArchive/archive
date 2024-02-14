@@ -309,6 +309,12 @@
             "institution": "uclouvain"
         },
         {
+            "id": "1974_linton_relative-functorial",
+            "title": "Relative functorial semantics, III. Triples vs. theories",
+            "authors": ["f.e.j.linton"],
+            "date": "1974"
+        },
+        {
             "id": "1975_celeyrette_catégories-internes",
             "title": "Catégories internes et fibrations & Cohomologie de gel'fand-fuks",
             "authors": ["j.celeyrette"],
