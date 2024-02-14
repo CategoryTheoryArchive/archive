@@ -13,6 +13,10 @@
             "name": "Contemporary Mathematics"
         },
         {
+            "id": "col.m",
+            "name": "Colloquium Mathematicae"
+        },
+        {
             "id": "l.n.s.aarhus.u",
             "name": "Lecture Notes Series, Aarhus University"
         },
@@ -202,6 +206,14 @@
             "authors": ["p.j.freyd"],
             "date": "1960",
             "school": "princeton.u"
+        },
+        {
+            "id": "1966_freyd_algebra-valued",
+            "title": "Algebra valued functors in general and tensor products in particular",
+            "authors": ["p.j.freyd"],
+            "date": "1966",
+            "journal": "col.m",
+            "pages": [89, 106]
         },
         {
             "id": "1966_kock_continuous-yoneda",
