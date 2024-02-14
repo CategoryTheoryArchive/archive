@@ -13,6 +13,7 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1967 | A triple miscellany: some aspects of the theory of algebras over a triple | Ernest Manes | [1967_manes_triple-miscellany.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_manes_triple-miscellany.pdf) |
 | 1967 | Limit Monads in Categories | Anders Kock | [1967_kock_limit-monads.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_kock_limit-monads.pdf) |
 | c. 1968 |  | Jon Beck | [1968_beck_.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1968_beck_.pdf) |
+| 1968 | Bikategorien af Profunktorer | Maren Bojen Justesen | [1968_justesen_bikategorien-profunktorer.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1968_justesen_bikategorien-profunktorer.pdf) |
 | 1969 | On the concreteness of certain categories | Peter Freyd | [1969_freyd_concreteness-certain.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1969_freyd_concreteness-certain.pdf) |
 | 1969 | Una definizione alternativa di ``funtori aggiunti'' | Mario Servi | [1969_servi_definizione-alternativa.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1969_servi_definizione-alternativa.pdf) |
 | 1970 | V-localizations and V-triples | Harvey Wolff | [1970_wolff_v-localizations-v-triples.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1970_wolff_v-localizations-v-triples.pdf) |

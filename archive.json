@@ -49,6 +49,10 @@
     ],
     "schools": [
         {
+            "id": "aarhus.u",
+            "name": "Aarhus University"
+        },
+        {
             "id": "u.cambridge",
             "name": "University of Cambridge"
         },
@@ -149,6 +153,10 @@
         {
             "id": "c.b.jay",
             "name": "Barry Jay"
+        },
+        {
+            "id": "m.b.justesen",
+            "name": "Maren Bojen Justesen"
         },
         {
             "id": "a.kock",
@@ -270,6 +278,13 @@
             "title": "",
             "authors": ["j.m.beck"],
             "date": "1968-06~"
+        },
+        {
+            "id": "1968_justesen_bikategorien-profunktorer",
+            "title": "Bikategorien af Profunktorer",
+            "authors": ["m.b.justesen"],
+            "date": "1968-11-23",
+            "school": "aarhus.u"
         },
         {
             "id": "1969_freyd_concreteness-certain",
