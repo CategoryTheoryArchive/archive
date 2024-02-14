@@ -5,6 +5,10 @@
             "name": "Annales de la Société Scientifique de Bruxelles"
         },
         {
+            "id": "a.m.q",
+            "name": "Annales mathématiques du Québec"
+        },
+        {
             "id": "b.u.m.i.",
             "name": "Bollettino dell'Unione Matematica Italiana"
         },
@@ -153,6 +157,10 @@
         {
             "id": "e.g.manes",
             "name": "Ernest Manes"
+        },
+        {
+            "id": "j-m.maranda",
+            "name": "Jean-Marie Maranda"
         },
         {
             "id": "c.v.meyer",
@@ -342,6 +350,14 @@
             "authors": ["y.diers"],
             "date": "1977",
             "school": "paris.vi"
+        },
+        {
+            "id": "1977_maranda_généralisation-notion",
+            "title": "Une généralisation de la notion de construction fondamentale",
+            "authors": ["j-m.maranda"],
+            "date": "1977",
+            "journal": "a.m.q",
+            "pages": [37, 57]
         },
         {
             "id": "1977_ulmer_bialgebras-locally",
