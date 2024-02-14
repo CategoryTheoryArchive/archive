@@ -19,6 +19,7 @@ For a `.bib` file of the papers in the archive, see: https://github.com/Category
 | 1973 | Les distributeurs | Jean Bénabou | [1973_bénabou_distributeurs.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_distributeurs.pdf) |
 | 1973 | Problemes dans les topos | Jean Bénabou | [1973_bénabou_problemes_topos.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1973_bénabou_problemes_topos.pdf) |
 | 1975 | Symmetric closed categories | W. J. de Schipper | [1975_schipper_symmetric-closed.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_schipper_symmetric-closed.pdf) |
+| 1975 | Algebraic theories | Gavin C. Wraith | [1975_wraith_algebraic-theories.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_wraith_algebraic-theories.pdf) |
 | 1975 | Catégories internes et fibrations & Cohomologie de gel'fand-fuks | Jean Celeyrette | [1975_celeyrette_catégories-internes.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_celeyrette_catégories-internes.pdf) |
 | 1976 | Variétés d'une catégorie | Yves Diers | [1976_diers_variétés-catégorie.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1976_diers_variétés-catégorie.pdf) |
 | 1976 | Universal coalgebras | Thomas Fox | [1976_fox_universal-coalgebras.pdf](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1976_fox_universal-coalgebras.pdf) |

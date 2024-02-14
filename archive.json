@@ -13,6 +13,10 @@
             "name": "Contemporary Mathematics"
         },
         {
+            "id": "l.n.s.aarhus.u",
+            "name": "Lecture Notes Series, Aarhus University"
+        },
+        {
             "id": "m.c.t",
             "name": "Mathematical Centre Tracts"
         },
@@ -177,6 +181,10 @@
         {
             "id": "h.e.wolff",
             "name": "Harvey Wolff"
+        },
+        {
+            "id": "g.c.wraith",
+            "name": "Gavin C. Wraith"
         }
     ],
     "resources": [
@@ -285,6 +293,13 @@
             "authors": ["w.j.de.schipper"],
             "date": "1975",
             "journal": "m.c.t"
+        },
+        {
+            "id": "1975_wraith_algebraic-theories",
+            "title": "Algebraic theories",
+            "authors": ["g.c.wraith"],
+            "date": "1975-02",
+            "journal": "l.n.s.aarhus.u"
         },
         {
             "id": "1976_diers_variétés-catégorie",
