@@ -33,6 +33,10 @@
             "name": "Notices of the American Mathematical Society"
         },
         {
+            "id": "r.m.a",
+            "name": "Rendiconti di Matematica e delle sue Applicazioni"
+        },
+        {
             "id": "s.r.c.m.d.s.ii",
             "name": "Supplemento ai Rendiconti del Circolo Matematico di Palermo Serie II"
         },
@@ -425,6 +429,14 @@
             "date": "1981",
             "journal": "b.u.m.i.",
             "pages": [315, 334]
+        },
+        {
+            "id": "1981_diers_completions_monadiques",
+            "title": "Complétions monadiques de quelques catégories sans produit",
+            "authors": ["y.diers"],
+            "date": "1981",
+            "journal": "r.m.a",
+            "pages": [658, 669]
         },
         {
             "id": "1983_meyer_completion-categories",
