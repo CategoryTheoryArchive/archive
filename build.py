@@ -64,6 +64,9 @@ if data is not None:
             if "venue" in resource:
                 kind = "proceedings"
                 entry.append(["venue", ids[resource["venue"]]["name"]])
+            if "book" in resource:
+                kind = "incollection"
+                entry.append(["booktitle", resource["book"]])
             if "pages" in resource:
                 pages = resource["pages"]
                 entry.append(["pages", str(pages[0]) + "--" + str(pages[1])])

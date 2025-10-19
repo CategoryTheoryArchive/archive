@@ -9,6 +9,10 @@
             "name": "Annales mathématiques du Québec"
         },
         {
+            "id": "a.a.s.t",
+            "name": "Atti della Accademia delle Scienze di Torino"
+        },
+        {
             "id": "b.u.m.i.",
             "name": "Bollettino dell'Unione Matematica Italiana"
         },
@@ -19,6 +23,10 @@
         {
             "id": "col.m",
             "name": "Colloquium Mathematicae"
+        },
+        {
+            "id": "col.m.s.jb",
+            "name": "Colloquia Mathematica Societatis János Bolyai"
         },
         {
             "id": "l.n.s.aarhus.u",
@@ -37,6 +45,14 @@
             "name": "Rendiconti di Matematica e delle sue Applicazioni"
         },
         {
+            "id": "r.r.m.p.a",
+            "name": "Revue Roumaine de Mathématiques Pures et Appliquées"
+        },
+        {
+            "id": "s.s.m.h",
+            "name": "Studia Scientiarum Mathematicarum Hungarica"
+        },
+        {
             "id": "s.r.c.m.d.s.ii",
             "name": "Supplemento ai Rendiconti del Circolo Matematico di Palermo Serie II"
         },
@@ -48,7 +64,11 @@
     "venues": [
         {
             "id": "cat.top.rels",
-            "name": "Categorical topology and its relation to analysis, algebra and combinatorics"
+            "name": "Categorical Topology And Its Relation To Analysis, Algebra And Combinatorics"
+        },
+        {
+            "id": "gen.top.rels",
+            "name": "General Topology and its Relations to Modern Analysis and Algebra"
         }
     ],
     "schools": [
@@ -73,8 +93,16 @@
             "name": "University of Illinois Urbana-Champaign"
         },
         {
+            "id": "u.lille",
+            "name": "Université de Sciences et Techniques de Lille"
+        },
+        {
             "id": "mcgill.u",
             "name": "McGill University"
+        },
+        {
+            "id": "u.milano",
+            "name": "Università degli Studi di Milano"
         },
         {
             "id": "paris.vi",
@@ -123,6 +151,10 @@
             "name": "Renato Betti"
         },
         {
+            "id": "f.borceux",
+            "name": "Francis Borceux"
+        },
+        {
             "id": "s.m.carmody",
             "name": "Sean Michael Carmody"
         },
@@ -135,8 +167,20 @@
             "name": "Robert Clay Davis"
         },
         {
+            "id": "b.j.day",
+            "name": "Brian John Day"
+        },
+        {
             "id": "y.diers",
             "name": "Yves Diers"
+        },
+        {
+            "id": "j.duskin",
+            "name": "John Duskin"
+        },
+        {
+            "id": "m.fontana",
+            "name": "Marco Fontana"
         },
         {
             "id": "t.f.fox",
@@ -155,6 +199,10 @@
             "name": "Horst Herrlich"
         },
         {
+            "id": "h.hoehnke",
+            "name": "Hans-Jürgen Hoehnke"
+        },
+        {
             "id": "c.b.jay",
             "name": "Barry Jay"
         },
@@ -163,8 +211,24 @@
             "name": "Maren Bojen Justesen"
         },
         {
+            "id": "h.kaphengst",
+            "name": "Heinz Kaphengst"
+        },
+        {
+            "id": "j.kastl",
+            "name": "Jan Kastl"
+        },
+        {
             "id": "a.kock",
             "name": "Anders Kock"
+        },
+        {
+            "id": "e.w.kiss",
+            "name": "Emil W. Kiss"
+        },
+        {
+            "id": "s.lack",
+            "name": "Stephen Lack"
         },
         {
             "id": "y.lafont",
@@ -183,6 +247,10 @@
             "name": "Jean-Marie Maranda"
         },
         {
+            "id": "l.márki",
+            "name": "László Márki"
+        },
+        {
             "id": "c.v.meyer",
             "name": "Carol Meyer"
         },
@@ -191,12 +259,20 @@
             "name": "John Power"
         },
         {
+            "id": "p.prőhle",
+            "name": "Péter Prőhle"
+        },
+        {
             "id": "d.pumplün",
             "name": "Dieter Pumplün"
         },
         {
             "id": "c.reggiani",
             "name": "Cristina Reggiani"
+        },
+        {
+            "id": "h.reichel",
+            "name": "Horst Reichel"
         },
         {
             "id": "j.reiterman",
@@ -213,6 +289,14 @@
         {
             "id": "m.servi",
             "name": "Mario Servi"
+        },
+        {
+            "id": "r.street",
+            "name": "Ross Street"
+        },
+        {
+            "id": "w.tholen",
+            "name": "Walter Tholen"
         },
         {
             "id": "f.ulmer",
@@ -344,6 +428,14 @@
             "institution": "uclouvain"
         },
         {
+            "id": "1973_fontana_universality",
+            "title": "Universality, representability and adjointness",
+            "authors": ["m.fontana"],
+            "date": "1973",
+            "journal": "r.r.m.p.a",
+            "pages": [639, 660]
+        },
+        {
             "id": "1974_linton_relative-functorial",
             "title": "Relative functorial semantics, III. Triples vs. theories",
             "authors": ["f.e.j.linton"],
@@ -409,6 +501,13 @@
             "school": "paris.vi"
         },
         {
+            "id": "1977_hoehnke_partial",
+            "title": "On partial algebras",
+            "authors": ["h.hoehnke"],
+            "date": "1977",
+            "journal": "col.m.s.jb"
+        },
+        {
             "id": "1977_maranda_généralisation-notion",
             "title": "Une généralisation de la notion de construction fondamentale",
             "authors": ["j-m.maranda"],
@@ -423,6 +522,29 @@
             "date": "1977"
         },
         {
+            "id": "1978_diers_familles",
+            "title": "Familles universelles de morphismes",
+            "authors": ["y.diers"],
+            "date": "1978",
+            "institution": "u.lille"
+        },
+        {
+            "id": "1979_kaphengst--reichel_finite",
+            "title": "Finite limit-colimit completions of small categories",
+            "authors": ["h.kaphengst", "h.reichel"],
+            "date": "1979",
+            "book": "Algebraische Modelle, Kategorien und Gruppoide",
+            "pages": [21, 33]
+        },
+        {
+            "id": "1979_kastl_inverse",
+            "title": "Inverse categories",
+            "authors": ["j.kastl"],
+            "date": "1979",
+            "book": "Algebraische Modelle, Kategorien und Gruppoide",
+            "pages": [51, 60]
+        },
+        {
             "id": "1981_rossi_quasi-fini",
             "title": "Quasi-fini e lemma di Yoneda relativo nella teoria delle bicategorie relative",
             "authors": ["f.rossi"],
@@ -431,12 +553,60 @@
             "pages": [315, 334]
         },
         {
+            "id": "1981_betti_bicategorie",
+            "title": "Bicategorie di base",
+            "authors": ["r.betti"],
+            "date": "1981",
+            "institution": "u.milano",
+            "pages": [1, 18]
+        },
+        {
             "id": "1981_diers_completions_monadiques",
             "title": "Complétions monadiques de quelques catégories sans produit",
             "authors": ["y.diers"],
             "date": "1981",
             "journal": "r.m.a",
             "pages": [658, 669]
+        },
+        {
+            "id": "1982_betti_alcune",
+            "title": "Alcune proprietà delle categorie basate su una bicategoria",
+            "authors": ["r.betti"],
+            "date": "1982",
+            "institution": "u.milano",
+            "pages": [1, 11]
+        },
+        {
+            "id": "1982_tholen_completions",
+            "title": "Completions of categories and shape theory",
+            "authors": ["w.tholen"],
+            "date": "1982",
+            "venue": "gen.top.rels",
+            "pages": [593, 607]
+        },
+        {
+            "id": "1983_betti_symmetric",
+            "title": "Symmetric categories and Cauchy-completion",
+            "authors": ["r.betti"],
+            "date": "1983",
+            "journal": "a.a.s.t",
+            "pages": [239, 243]
+        },
+        {
+            "id": "1983_borceux_a-propos",
+            "title": "A propos d'un théorème de Barr",
+            "authors": ["f.borceux"],
+            "date": "1983",
+            "journal": "a.s.s.b",
+            "pages": [41, 58]
+        },
+        {
+            "id": "1983_kiss--márki--prőhle--tholen_categorical",
+            "title": "Categorical algebraic properties. A compendium on amalgamation, congruence extension, epimorphisms, residual smallness, and injectivity",
+            "authors": ["e.w.kiss", "l.márki", "p.prőhle", "w.tholen"],
+            "date": "1983",
+            "journal": "s.s.m.h",
+            "pages": [79, 141]
         },
         {
             "id": "1983_meyer_completion-categories",
@@ -454,6 +624,12 @@
             "pages": [85, 90]
         },
         {
+            "id": "1984_day--street_additive",
+            "title": "An additive Giraud theorem",
+            "authors": ["b.j.day", "r.street"],
+            "date": "1984~"
+        },
+        {
             "id": "1984_jay_generalising-structure-semantics",
             "title": "Generalising the structure-semantics adjunction: Operational categories",
             "authors": ["c.b.jay"],
@@ -466,6 +642,12 @@
             "authors": ["a.j.power"],
             "date": "1984-03",
             "school": "mcgill.u"
+        },
+        {
+            "id": "1987_hoehnke_monoidal",
+            "title": "Monoidal structure of Mal'cev clones, their theories and completions",
+            "authors": ["h.hoehnke"],
+            "date": "1987"
         },
         {
             "id": "1988_adámek--herrlich--reiterman_cocompleteness-almost",
@@ -499,6 +681,14 @@
             "pages": [97, 143]
         },
         {
+            "id": "1989_hoehnke_certain",
+            "title": "On certain classes of categories and monoids constructed from abstract Mal'cev clones. I.",
+            "authors": ["h.hoehnke"],
+            "date": "1989",
+            "book": "Universal and applied algebra",
+            "pages": [149, 177]
+        },
+        {
             "id": "1989_power_coherence-bicategories",
             "title": "Coherence for bicategories with finite bilimits",
             "authors": ["a.j.power"],
@@ -530,12 +720,41 @@
             "school": "u.cambridge"
         },
         {
+            "id": "1999_lack_algebra",
+            "title": "The algebra of distributive and extensive categories",
+            "authors": ["s.lack"],
+            "date": "1999",
+            "school": "u.cambridge",
+            "pages": [1, 188]
+        },
+        {
             "id": "2000_betti_categorical-frobenius",
             "title": "On categorical Frobenius reciprocity",
             "authors": ["r.betti"],
             "date": "2000",
             "journal": "s.r.c.m.d.s.ii",
             "pages": [51, 66]
+        },
+        {
+            "id": "2000_duskin_simplicial-matrix",
+            "title": "A Simplicial-Matrix Approach to the Nerves of Higher Dimensional Categories",
+            "authors": ["j.duskin"],
+            "date": "2000-07-17",
+            "pages": [1, 11]
+        },
+        {
+            "id": "2001_duskin_simplicial-matrix",
+            "title": "A Simplicial-Matrix Approach to Higher Dimensional Category Theory II : Bicategory Morphisms and Simplicial Maps",
+            "authors": ["j.duskin"],
+            "date": "2001",
+            "pages": [1, 53]
+        },
+        {
+            "id": "2002_duskin_simplicial",
+            "title": "Simplicial Matrices and the Nerves of Weak $n$-categories Part IV : Roberts-Street Complexes and Nerves of Weak $\\omega$ and $n$-categories",
+            "authors": ["j.duskin"],
+            "date": "2002~",
+            "pages": [1, 15]
         }
     ]
 }
